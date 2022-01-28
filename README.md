@@ -1,6 +1,6 @@
 ### Hi, I'm Vini Guimaraes
 
-- 🔭 I’m currently working on [Medina Cafe](https://www.medinacafe.com/)
+- 🔭 I’m currently working at [Medina Cafe](https://www.medinacafe.com/)
 - 🌱 I’m currently Studying Web Development at [Cornestone College](https://ciccc.ca/)
 - 🇧🇷 I’m Brazilian and of course I love Soccer
 - 📫 How to reach me: niciusfg@gmail.com
